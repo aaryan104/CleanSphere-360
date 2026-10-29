@@ -4,7 +4,6 @@ import { cleaningRequestAPI, authAPI } from '../api';
 import { CleaningRequest, User } from '../api';
 import { toast } from 'react-toastify';
 import {
-  EyeIcon,
   UserIcon,
   MapPinIcon,
   ExclamationTriangleIcon,

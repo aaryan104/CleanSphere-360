@@ -23,7 +23,7 @@ const CleaningRequestPage: React.FC = () => {
     image_url: '',
     priority: 'medium'
   });
-  const [selectedImage, setSelectedImage] = useState<File | null>(null);
+  const [, setSelectedImage] = useState<File | null>(null);
   const [imagePreview, setImagePreview] = useState<string>('');
   const [isUploading, setIsUploading] = useState(false);
 

@@ -7,7 +7,6 @@ import {
   PlusIcon,
   PencilIcon,
   TrashIcon,
-  EyeIcon,
   MapPinIcon,
   ClockIcon,
   CheckCircleIcon,
